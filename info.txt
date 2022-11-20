@@ -1,5 +1,5 @@
 
-HTML ==> 
+HTML ==> HTML tag has attributes with define key.value pair ==> <(N-S)p id="myid" class="body" ><(N-S)/p>
 	- It provides the structure (contains of many elements e.g: head, paragraph, body, etc).
 	- It DOES-NOT tell you anything about:
 		1: How they visually look.
