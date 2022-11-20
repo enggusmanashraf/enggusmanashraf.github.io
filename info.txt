@@ -19,6 +19,13 @@ HTML has ==>
  Semantic element ==> (HEADINGS, )
 	- They implies some meaning/logic to the CONTENT 
 	- It may help search-engine RANKING, SEO
+	
+ List ==>
+	- Group related elements
+	
+ HTML character entity reference ==>
+	- escaped characters:  >(&gt;), <(&lt;), &(&amp;)
+	- &gt; , &lt; , &amp; , &copy; , &nbsp; &quote;
 
 
 ############################################################################################################# Section
