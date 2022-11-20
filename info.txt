@@ -1,3 +1,4 @@
+############################################################################################################# Section
 
 HTML ==> HTML tag has attributes with define key.value pair ==> <(N-S)p id="myid" class="body" ><(N-S)/p>
 	- It provides the structure (contains of many elements e.g: head, paragraph, body, etc).
@@ -13,12 +14,25 @@ HTML has ==>
 	- Render at same line(by default).
 	- May contain inline elements, but not other block level elements.
 
+------------------------------------------------------------------------------------------------------------- Same
+
+ Semantic element ==> (HEADINGS, )
+	- They implies some meaning/logic to the CONTENT 
+	- It may help search-engine RANKING, SEO
+
+
+############################################################################################################# Section
+	
+
 CSS ==>
 	- It provides the details about  color, style, font-size, lay-out, etc.
 	
+############################################################################################################# Section
 
 Javascript ==>
 	- It provides functionality/Behaviour, e.g if you press ring-bell, it should produce some noise.
 	e.g:
 	- What happens when html document is finished loading into the browser.
 	- What happens if click on one of the heading.
+	
+############################################################################################################# Section
