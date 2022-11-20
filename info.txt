@@ -5,6 +5,13 @@ HTML ==> HTML tag has attributes with define key.value pair ==> <(N-S)p id="myid
 		1: How they visually look.
 		2: How they are laid out at page.
 		3: What is there font-size or color.
+HTML has ==>
+ Block level elements ==> (HTML5 catagory: roughly Flow-Content)
+	- Render to begin at new line(by default).
+	- May contain inline elements or other block level elements.
+ Inline elements ==> (HTML5 catagory: roughly Pharasing-Content)
+	- Render at same line(by default).
+	- May contain inline elements, but not other block level elements.
 
 CSS ==>
 	- It provides the details about  color, style, font-size, lay-out, etc.
