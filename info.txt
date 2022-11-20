@@ -1,0 +1,17 @@
+
+HTML ==> 
+	- It provides the structure (contains of many elements e.g: head, paragraph, body, etc).
+	- It DOES-NOT tell you anything about:
+		1: How they visually look.
+		2: How they are laid out at page.
+		3: What is there font-size or color.
+
+CSS ==>
+	- It provides the details about  color, style, font-size, lay-out, etc.
+	
+
+Javascript ==>
+	- It provides functionality/Behaviour, e.g if you press ring-bell, it should produce some noise.
+	e.g:
+	- What happens when html document is finished loading into the browser.
+	- What happens if click on one of the heading.
