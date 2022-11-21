@@ -33,6 +33,21 @@ HTML has ==>
 
 CSS ==>
 	- It provides the details about  color, style, font-size, lay-out, etc.
+ CSS Selectors ==> 
+	- element ( HTML elements e.g: p, h1, a, img etc )
+	- class ( Define with '.' --> e.g: .blue_center {color: blue; text-align: center;} )
+	- id ( Define with '#' --> e.g: #p1_1 {} )
+	- group selectors ( more than one selector --> e.g: div, p, .green { font-site:24px; } )
+	- combining selectors (HTML_element.className --> e.g. p.centerGreen {color: blue; text-align: center;} --> for html-p with class="centerGreen" )
+	- child-selector (for direct child elements --> e.g: article > p {} --> for every direct html-p child of html-article element)
+	- descendent-selector (for every child elements --> e.g: article p {} --> for every html-p child of html-article element)
+	-pseudo class selector ( selector:pseudo-class {} )
+		pseudo-class ==>
+			- :link
+			- :visited
+			- :hover
+			- :active
+			- :nth-child(...)
 	
 ############################################################################################################# Section
 
