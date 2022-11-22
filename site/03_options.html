@@ -1,0 +1,81 @@
+<!DOCTYPE html>
+<html>
+<head>
+<meta charset="utf-8">
+<title>Floating Elements</title>
+<style>
+
+* {
+  box-sizing: border-box;
+  margin:0px;
+}
+h1 {
+  position: relative;
+  top:0%
+}
+.OptionMenu {
+  position: relative;
+  top:0%
+  width: 100%;
+  background-color: gray;
+}
+.genSpan {
+  position: relative;
+  top:0%
+  width: 25%;
+  text-align: center;
+  border: 1px solid black;
+}
+
+.spanOption1 {
+  background-color: red;
+  width: 20%;
+  
+}
+.spanOption2 {
+  background-color: green;
+  width: 20%;
+}
+.spanOption3 {
+  background-color: blue;
+  width: 20%;
+}
+.spanOption4 {
+  background-color: yellow;
+  width: 20%;
+}
+
+section {
+  clear: left;
+  background-color: aqua;
+}
+
+</style>
+</head>
+<body>
+<h1>Floating Elements</h1>
+<span class="OptionMenu">
+  <span class="genSpan spanOption1">option1 blah blah blah</span>
+  <span class="genSpan spanOption2">option2 blah blah blah</span>
+  <span class="genSpan spanOption3">option3 blah blah blah</span>
+  <span class="genSpan spanOption4">option4 blah blah blah</span>
+  <section>This is regular content continuing after the the paragraph boxes.</section>
+</span>
+<div class="OptionMenu">
+  <span class="genSpan spanOption1">option1 blah blah blah</span>
+  <span class="genSpan spanOption2">option2 blah blah blah</span>
+  <span class="genSpan spanOption3">option3 blah blah blah</span>
+  <span class="genSpan spanOption4">option4 blah blah blah</span>
+  <section>This is regular content continuing after the the paragraph boxes.</section>
+</div>
+<div class="OptionMenu">
+  <p class="genSpan spanOption1">option1 blah blah blah</p>
+  <p class="genSpan spanOption2">option2 blah blah blah</p>
+  <p class="genSpan spanOption3">option3 blah blah blah</p>
+  <p class="genSpan spanOption4">option4 blah blah blah</p>
+  <section>This is regular content continuing after the the paragraph boxes.</section>
+</div>
+
+
+</body>
+</html>
